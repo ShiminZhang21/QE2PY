@@ -2,4 +2,7 @@
 
 ## Description
 
-The code include interface with Quantum Espreso. Including input generation, postprocessing and plotting
+The code include interface with Quantum Espresso. Including input generation, postprocessing and plotting.
+
+Inpired and partly inherit from pw2py module (Author: Tyler J. Smart)
+
