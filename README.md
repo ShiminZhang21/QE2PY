@@ -6,3 +6,5 @@ The code include interface with Quantum Espresso. Including input generation, po
 
 Inpired and partly inherit from pw2py module (Author: Tyler J. Smart)
 
+## Installation:
+`pip install .`
